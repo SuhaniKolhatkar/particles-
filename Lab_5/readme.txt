@@ -1,0 +1,2 @@
+-constellation background with bouncing effect of particles along with mouse radius . 
+-particles bouncing because of mouse radius 
